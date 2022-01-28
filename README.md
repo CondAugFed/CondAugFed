@@ -42,7 +42,7 @@ Copy downloaded dataset folders under 'split_dataset'.
 
 ## The second phase training (FedAvg, FedProx)
 Suppose that there is a server that is connected to 10 clients.
-We will provide sample code to execute the federated learning on one device, but you can use this repository to apply federated learning in real situation thanks to Flower.
+We will provide sample code to execute the federated learning on one device, but you can use this repository to apply federated learning with multiple devices.
 To train a global classifier using the proposed conditional augmentation with FedAvg, 
 
 <br/>
