@@ -2,7 +2,7 @@
 
 # Conditional Data Augmentation for Federated Learning with Non-IID data
 
-This is an official pytorch implementation for "Conditoinal Data Augmentation for Federated Learning with Non-IID data" that is submitted to ICML 2022.
+This is an official pytorch implementation for "Conditoinal Data Augmentation for Federated Learning with Non-IID data" that is submitted to NeurIPS 2022.
 
 ## Requirements
 To install requirements:
